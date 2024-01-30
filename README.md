@@ -30,7 +30,7 @@ To use this model, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/linear-regression-salary-model.git
+    git clone https://github.com/anand23124/linear-regression-salary-model.git
     cd linear-regression-salary-model
     ```
 
